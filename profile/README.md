@@ -30,11 +30,11 @@ Our mission is to build a user-friendly platform that bridges the gap between se
 ## Technology Stack
 
 - **Frontend:** React Native (Expo), TailwindCSS, NativeWind
-- **Backend:** Node.js, Express.js, Prisma ORM, CockroachDB
-- **Authentication:** Clerk
+- **Backend:** Fastify, Prisma ORM, CockroachDB
+- **Authentication:** Fastify Auth
 - **Payments:** Stripe
 - **State Management:** Zustand, React Query
-- **Cloud Storage:** AWS S3
+- **Cloud Storage:** AWS S3, AWS Cloudfront
 
 ## Contributing
 
